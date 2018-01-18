@@ -1,4 +1,4 @@
-Hello! This repo contains XMPP-client(Jabber).
+Hello! This repository contains XMPP-client(Jabber).
 
 Primary goal of this project is to create chat-bot for monitoring chat-room and for greeting "Hello %username%!" when anybody says: "Good morning, colleagues!". Second goal is sending messages in chat-room with useful information such as weather, RSS, exchange rates.
 
