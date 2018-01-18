@@ -7,7 +7,8 @@ Currently done:
 - connection to XMPP-server;
 - sending messages functionality ;
 - main form design;
-- RSS-feed collector ;
+- RSS-feed collector.
+
 So, if you are intrested in this project, create new branch, update the code, come up with new ideas! :)
 
 Best regards, Aleynikov Maxim.
